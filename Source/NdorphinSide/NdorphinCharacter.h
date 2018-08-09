@@ -15,7 +15,7 @@ public:
 	// Sets default values for this character's properties
 	ANdorphinCharacter();
 
-	UPROPERTY(BlueprintReadWrite)
+	//UPROPERTY(BlueprintReadWrite)
 	float SpeedMultiplier = 1.0f;
 
 
